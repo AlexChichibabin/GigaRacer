@@ -1,6 +1,8 @@
 # Giga racer
 Цель проекта - реализовать прототип гонки, в котором есть возможность управлять автомобилем, проходить трассы на время и ставить рекорды, главное меню, панель настройки игры, панель выбора сезона и трассы.
 
+![Model](https://github.com/AlexChichibabin/GigaRacer/blob/3822f3d673ff27d4591f82bb73c5959de2d35020/GR_B2.jpg)
+
 ## Реализовано:
 1. Движение и физика машины
 2. Управление машиной
@@ -11,3 +13,11 @@
 7. Панель настройки игры
 8. Панель выбора сезова и трассы
 9. Музыка и звуки
+
+![Model](https://github.com/AlexChichibabin/GigaRacer/blob/3822f3d673ff27d4591f82bb73c5959de2d35020/GR_raceMenu.jpg)
+
+![Model](https://github.com/AlexChichibabin/GigaRacer/blob/c9919d777b6d54019e4f11f489fec4a811a5ce40/GR_B1.jpg)
+
+![Model](https://github.com/AlexChichibabin/GigaRacer/blob/3822f3d673ff27d4591f82bb73c5959de2d35020/GR_R1.jpg)
+
+
